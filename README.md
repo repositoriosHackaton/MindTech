@@ -1,3 +1,4 @@
+```python
 import cv2
 import torch
 import pytesseract
@@ -168,4 +169,6 @@ def manejar_entrada_de_voz():
 
 if __name__ == "__main__":
     manejar_entrada_de_voz()
+
+```python
 
